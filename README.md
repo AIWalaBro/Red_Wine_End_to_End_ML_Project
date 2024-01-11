@@ -27,3 +27,5 @@ conda activate mlproj
 ```bash
 pip install -r requirements.txt
 ```
+
+![alt text](https://ivyproschool.com/blog/wp-content/uploads/2015/08/Cycle-2.png)

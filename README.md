@@ -28,4 +28,6 @@ conda activate mlproj
 pip install -r requirements.txt
 ```
 
-- [x] Tech stack
+- [x] Tech stack 
+
+:joy:
